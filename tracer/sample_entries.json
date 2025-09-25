@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "start_pc": 4096,
+      "ctx_hash": 8197,
+      "writes": [
+        { "reg": 10, "val": 12 }
+      ],
+      "next_pc": 8192
+    },
+    {
+      "start_pc": 12288,
+      "ctx_hash": 16394,
+      "writes": [
+        { "reg": 10, "val": 42 },
+        { "reg": 11, "val": 77 }
+      ],
+      "next_pc": 16384
+    }
+  ]
+}
